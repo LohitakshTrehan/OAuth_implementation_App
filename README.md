@@ -4,6 +4,8 @@ This is not a mature product and i still have some visions to improve and
 add more features to it.
 Currently i also tried to integrate API system.
 
+Using connect-mongo for persistent client session storage :)
+
 Many new features are to be added, but i am not giving till when.
 
 You can look on passport strategies and they are commented for you to understand better
